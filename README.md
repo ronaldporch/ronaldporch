@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a seasoned software developer with **10+ years of experience** crafting high-quality web and mobile applications. As the founder of [Horde Technologies](https://ronpollc.com/), I specialize in delivering tailored solutions that exceed client expectations and drive business growth.
+I'm a seasoned software developer with **10+ years of experience** crafting high-quality web and mobile applications. As the founder of [RonPo LLC](https://ronpollc.com/), I specialize in delivering tailored solutions that exceed client expectations and drive business growth.
 
 ## 🚀 What I Do
 
@@ -54,9 +54,9 @@ I'm passionate about leveraging **AI tools to 10x productivity** and deliver inn
 - 💼 **LinkedIn**: [@ronaldporch](https://www.linkedin.com/in/ronaldporch/)
 - 🌐 **Website**: [ronpollc.com](https://ronpollc.com/)
 
-## 🏢 About Horde Technologies
+## 🏢 About RonPo
 
-I lead [Horde Technologies](https://ronpollc.com/), a software development company specializing in:
+I lead [RonPo](https://ronpollc.com/), a software development company specializing in:
 
 - Custom web applications
 - Mobile app development
