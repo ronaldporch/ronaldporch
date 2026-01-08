@@ -50,7 +50,7 @@ I'm passionate about leveraging **AI tools to 10x productivity** and deliver inn
 
 ## 📫 Let's Connect
 
-- 📧 **Email**: [ronaldmporch@gmail.com](mailto:ronaldmporch@gmail.com)
+- 📧 **Email**: [ron@ronpollc.com](mailto:ron@ronpollc.com)
 - 💼 **LinkedIn**: [@ronaldporch](https://www.linkedin.com/in/ronaldporch/)
 - 🌐 **Website**: [ronpollc.com](https://ronpollc.com/)
 
